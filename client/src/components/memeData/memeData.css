@@ -1,0 +1,92 @@
+.container {
+  margin-top: 4%;
+  position: relative;
+  right: 0;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  margin: 4% auto;
+  cursor: pointer;
+  background-color: #0069d9;
+}
+
+.button_1 {
+  border: none;
+  color: white;
+  display: inline-block;
+  margin-top: 4%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 4%;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 30px;
+  justify-content: center;
+  cursor: pointer;
+  width: 100px;
+  background-color: #0069d9;
+}
+
+input[type="text"] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 18px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type="text"]:focus {
+  border: 3px solid #555;
+}
+
+.label {
+  padding-right: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.label_1 {
+  padding-right: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.label_2 {
+  padding-right: 55px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+  padding: 5px;
+  border-radius: 2.5px;
+}
+
+body {
+  background: #f3e0e2;
+  text-align: center;
+}
+
+.memelist {
+  border: none;
+  color: purple;
+  font-size: 10px;
+  text-align: centre;
+  width: 100%;
+  size: 100%;
+  column-gap: 50px;
+}

@@ -1,0 +1,16 @@
+/* .meme {
+  display: flex;
+} */
+
+.name {
+  margin: 20px;
+}
+
+.caption {
+  margin: 20px;
+}
+
+.images {
+  width: 40%;
+  height: 5%;
+}
